@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+# .hack( );
+## A 24 hour open hackathon for students, by students
 
-You can use the [editor on GitHub](https://github.com/fillerInk/.hack/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
